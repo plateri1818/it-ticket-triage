@@ -1,0 +1,5 @@
+[
+  {"id": 1, "user": "alice@company.com", "description": "Cannot connect to the office wifi network."},
+  {"id": 2, "user": "bob@company.com", "description": "Need a password reset for my payroll portal."},
+  {"id": 3, "user": "charlie@company.com", "description": "My office desk printer is making a loud clicking noise."}
+]
